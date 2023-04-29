@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiConsumoAPI</string>
+    <string name="btn_mostrar_broma">Mostrar Broma</string>
+</resources>
